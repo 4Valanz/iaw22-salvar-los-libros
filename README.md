@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-        <html lang="es">
-            <head>
-                <meta charset="utf-8">
-                <title>Salvemos a los libros</title>
-                <style>
-                    body{background-color: teal;}
-                    hr{height:3px; background-color:chartreuse;}
-                    img{height:300px; width:300px;}
-                </style>
-            </head>
-            <body>
+
                 <p>En Instituto Cuatrovientos se ha creado un nuevo aula de descanso para el alumnado. !Es genial! Un espacio abierto para el uso del alumnado en su tiempo libre, ya sea para estudiar, tomar un café o charlas relajadamente, eso si, sin hacer mucho ruido.
 
 Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué va a pasar con todos eso libros en papel que se encontraban en la antigua Biblioteca?
