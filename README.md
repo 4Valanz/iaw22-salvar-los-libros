@@ -5,5 +5,5 @@ Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué v
 El contexto para el desarrollo de la web debe ser este, y la idea principal es Salvemos a los libros!
 
 Venga, que no es tan complicado, has buscado ya en google. ¿Qué podemos hacer? ¿y si planteamos una lluvia de ideas? </p>
-      La triada de colores será un verde, unos azules oscuros y unos amarillos calidos
+      La triada de colores será un verde, unos azules oscuros y unos naranjas calidos
               Los tipos de letra van a ser: Bungee Spice y Roboto
